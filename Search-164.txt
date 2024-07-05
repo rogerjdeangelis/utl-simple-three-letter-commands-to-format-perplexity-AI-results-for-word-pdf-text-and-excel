@@ -1,0 +1,36 @@
+                                              Search-164                                                                            
+                                                  	                                                                                 
+  Roger DeAngelis is an experienced SAS programmer known for his expertise in SAS, R, and Python.     
+  Some key points about him: 
+ 
+ - He has an extensive GitHub profile with 2266 repositories        
+  available, showcasing his programming skills and projects[1]. 
+ 
+ - DeAngelis has shared his      
+  insights on how to become a top SAS programmer in interviews and videos. In one interview, he       
+  discusses the path to becoming a skilled SAS programmer[2][4]. 
+ 
+ - He is active on LinkedIn,    
+  where he has shared posts about his SAS programming work and being open to new opportunities[3]. 
+ 
+  
+ - DeAngelis has a YouTube channel where he posts videos related to SAS programming, including    
+  topics like using a power workstation for SAS, SAS invocation, SAS IDE, and versioning[4][5]. 
+ 
+ 
+  - As a SAS programmer, DeAngelis has worked on projects involving mapping clinical terms to         
+  descriptions for various vocabularies, end-to-end CDISC SDTM and ADaM processing for FDA            
+  submissions, and reducing SDTM and ADaM mapping efforts using a common metadata model[1]. 
+ 
+     
+  Citations: 
+ [1] https://github.com/rogerjdeangelis 
+ [2]                                         
+  https://www.youtube.com/watch?v=OepqB81wABc 
+ [3]                                                  
+  https://www.linkedin.com/posts/xlr82sas_how-to-become-a-top-sas-programmer-by-roger-activity-6318441
+  281731330048-7Sx8?trk=public_profile_share_view 
+ [4] https://youtube.com/%40rogerdeangelis4420 
+ 
+  [5] https://youtube.com/%40rogerdeangelis4420/videos?shelf_id=0&sort=dd&view=0 
+                   
