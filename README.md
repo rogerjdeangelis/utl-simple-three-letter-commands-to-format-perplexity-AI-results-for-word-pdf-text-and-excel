@@ -67,12 +67,12 @@ Simple three letter commands to format perplexity ai results for ms-word, pdf, t
       ....
 
       The AI?  commands should be in your autocall library or in the sas performance package
-      You can copy the or include the macro in you sas script, because command macros can act
+      You can copy or include the macro in your sas script, because command macros can act
       just like normal macros.
 
       For example
 
-      The results from the AIR promnpt will be formatted for MS Word in:
+      The results from the AIR prompt will be formatted for MS Word in:
           d:/rtf/search1.rft
 
        If you run another prompt the result will be in:
@@ -106,7 +106,7 @@ Simple three letter commands to format perplexity ai results for ms-word, pdf, t
     /*                                                                                                                        */
     /* He has shared his knowledge and experience through various c..........                                                 */
     /*                                                                                                                        */
-    /* Overall, Roger DeAngelis is a highly respected SAS programme..........                                                 */
+    /* Overall, Roger DeAngelis is a highly respected SAS programmer..........                                                */
     /*                                                                                                                        */
     /* Citations:                                                                                                             */
     /* [1] https://github.com/rogerjdeangelis                                                                                 */
